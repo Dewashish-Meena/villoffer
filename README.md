@@ -1,2 +1,2 @@
 # villoffer
-City Offers Marketplace - Connecting local residents with nearby shops
+City Offers Marketplace - Connecting local residents with nearby shopssd
